@@ -11,10 +11,10 @@
 
 | # | Assignment | Concept | Language | OS |
 |---|---|---|---|---|
-| [Assignment 1] | Implement multi-threaded client/server Process communication using RMI. | Remote Method Invocation | Java | Ubuntu / Windows |
-| [Assignment 4] | Implement Berkeley algorithm for clock synchronization. | Clock Synchronization | Python | Ubuntu |
-| [Assignment 5] | Implement token ring based mutual exclusion algorithm. | Token Ring / Mutual Exclusion | Java | Ubuntu / Windows |
-| [Assignment 6] | Implement Bully and Ring algorithm for leader election. | Election Algorithms | Java | Ubuntu / Windows |
+| Assignment 1 | Implement multi-threaded client/server Process communication using RMI. | Remote Method Invocation | Java | Ubuntu / Windows |
+| Assignment 4 | Implement Berkeley algorithm for clock synchronization. | Clock Synchronization | Python | Ubuntu |
+| Assignment 5 | Implement token ring based mutual exclusion algorithm. | Token Ring / Mutual Exclusion | Java | Ubuntu / Windows |
+| Assignment 6 | Implement Bully and Ring algorithm for leader election. | Election Algorithms | Java | Ubuntu / Windows |
 
 ---
 
